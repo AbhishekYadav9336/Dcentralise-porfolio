@@ -18,9 +18,14 @@ DAPP on blockchain to showcase your knowladge and work
 
 #EXTENSIONS:
 1.first go to your folder by - cd folder name
+
 2.npm creat vite@latest
+
 3.select react and javascript
-3.npm install web3
-4.deploy your smart contract by connecting to metamask wallet.
-5.npm run build, this will give you dist file to upload on netlify
-6.npm run dev.
+4.npm install web3
+
+5.deploy your smart contract by connecting to metamask wallet.
+
+6.npm run build, this will give you dist file to upload on netlify
+
+7.npm run dev.
