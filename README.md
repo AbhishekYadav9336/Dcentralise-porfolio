@@ -22,6 +22,7 @@ DAPP on blockchain to showcase your knowladge and work
 2.npm creat vite@latest
 
 3.select react and javascript
+
 4.npm install web3
 
 5.deploy your smart contract by connecting to metamask wallet.
