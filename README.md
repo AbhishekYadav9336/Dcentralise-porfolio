@@ -16,7 +16,10 @@ DAPP on blockchain to showcase your knowladge and work
 
 6.Metamask Integration: Users can connect their Ethereum wallets using Metamask to interact with the DApp on desktop as well as mobile.
 
+
+
 #EXTENSIONS:
+
 1.first go to your folder by - cd folder name
 
 2.npm creat vite@latest
